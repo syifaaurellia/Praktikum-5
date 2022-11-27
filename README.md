@@ -1,4 +1,4 @@
-# Praktikum-6
+# Praktikum-5
 
 Nama : Syifa Aurellia Rahma
 
@@ -10,8 +10,8 @@ Kelas : TI.22.A1
 | No | Description | Link |
 |-----|------|-----|
 |1|Latihan|[Click Here](#latihan)|
-|2|Praktikum 6|[Click Here](#praktikum-6)|
-|3|Flowchart Praktikum 6|[Click Here](#flowchart-praktikum-6)|
+|2|Praktikum 5|[Click Here](#praktikum-5)|
+|3|Flowchart Praktikum 5|[Click Here](#flowchart-praktikum-5)|
 
 ## Latihan
 Buat Dictionary daftar kontak
@@ -83,7 +83,7 @@ Buat Dictionary daftar kontak
 
 ![Screenshot (216)](https://user-images.githubusercontent.com/115867244/204136385-0482a094-e5ff-40f4-94fc-277e28714d64.png)
 
-## Praktikum 6
+## Praktikum 5
 Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
 - Program dibuat dengan menggunakan **Dictionary**
 - Tampilkan menu pilihan : (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data)
