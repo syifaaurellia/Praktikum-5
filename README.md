@@ -168,4 +168,5 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 
 
 ### Penjelasan Program :
-1. 
+1. Buatlah Dictionary berupa Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS.
+2. Lalu 
