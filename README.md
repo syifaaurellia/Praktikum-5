@@ -10,8 +10,8 @@ Kelas : TI.22.A1
 | No | Description | Link |
 |-----|------|-----|
 |1|Latihan|[Click Here](#latihan)|
-|2|Praktikum 5|[Click Here](#praktikum-5)|
-|3|Flowchart Praktikum 5|[Click Here](#flowchart-praktikum-5)|
+|2|Praktikum-5|[Click Here](#praktikum-5)|
+|3|Flowchart Praktikum-5|[Click Here](#flowchart-praktikum-5)|
 
 ## Latihan
 Buat Dictionary daftar kontak
@@ -168,5 +168,17 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 
 
 ### Penjelasan Program :
-1. Buatlah Dictionary berupa Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS.
-2. Lalu 
+1. Buatlah Dictionary berupa Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS
+2. Lalu inputlah menu pilihan berupa Lihat, Tambah, Ubah, Hapus, Cari, Keluar
+3. Gunakanlah perulangan for, dengan perintah for i in range(len(Nama)):. Fungsi "len" ialah untuk mengembalikan panjang (jumlah anggota) dari suatu objek.
+4. Lalu inputlah Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS
+5. Lalu mencari nilai akhir dengan perhitungan nilai tugas 30%, nilai uts 35% dan uas 35% , dengan perintah float
+6. Jika ingin melihat dictionary data ketik "L", jika ingin menambah data ketik "T", jika ingin mengubah data ketik "U", jika ingin menghapus ketik "H", jika ingin mencari data ketik "C" dan jika ingin keluar dari data ketik "K"
+7. Lalu cetak dengan perintah print ("Pilih menu yang tersedia")
+8. Selesai
+
+### Flowchart Praktikum-5
+
+![Gambar WhatsApp 2022-11-28 pukul 12 48 14](https://user-images.githubusercontent.com/115867244/204207537-fdd8a91a-fb21-41d7-a5a6-217ab501b6e7.jpg)
+
+## Sekian, Terima kasih
